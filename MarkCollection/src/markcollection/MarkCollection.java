@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Nolufefe
+ *
  */
 public class MarkCollection {
 
